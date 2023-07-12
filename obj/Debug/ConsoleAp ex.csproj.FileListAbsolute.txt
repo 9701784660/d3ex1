@@ -1,0 +1,7 @@
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\bin\Debug\ConsoleAp ex.exe.config
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\bin\Debug\ConsoleAp ex.exe
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\bin\Debug\ConsoleAp ex.pdb
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\obj\Debug\ConsoleAp ex.csproj.AssemblyReference.cache
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\obj\Debug\ConsoleAp ex.csproj.CoreCompileInputs.cache
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\obj\Debug\ConsoleAp ex.exe
+D:\exercises\day2\ConsoleAp ex\ConsoleAp ex\obj\Debug\ConsoleAp ex.pdb
